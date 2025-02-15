@@ -1,0 +1,1 @@
+This project is a Website Content Summarizer built using Groq and LangChain, designed to efficiently extract and summarize content from any webpage. It provides concise and accurate summaries, helping users quickly grasp the main ideas without reading through lengthy articles.
